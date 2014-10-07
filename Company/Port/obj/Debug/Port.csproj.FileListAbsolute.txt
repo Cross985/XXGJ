@@ -1,0 +1,4 @@
+D:\sage\欣兴工具\DLL\Port.dll
+D:\sage\欣兴工具\DLL\Port.pdb
+D:\sage\欣兴工具\Company\Port\obj\Debug\Port.dll
+D:\sage\欣兴工具\Company\Port\obj\Debug\Port.pdb

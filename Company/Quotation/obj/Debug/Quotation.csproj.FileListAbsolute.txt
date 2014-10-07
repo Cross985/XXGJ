@@ -1,0 +1,6 @@
+D:\sage\欣兴工具\Company\Quotation\bin\Debug\Quotation.dll
+D:\sage\欣兴工具\Company\Quotation\bin\Debug\Quotation.pdb
+D:\sage\欣兴工具\DLL\Quotation.dll
+D:\sage\欣兴工具\DLL\Quotation.pdb
+D:\sage\欣兴工具\Company\Quotation\obj\Debug\Quotation.dll
+D:\sage\欣兴工具\Company\Quotation\obj\Debug\Quotation.pdb

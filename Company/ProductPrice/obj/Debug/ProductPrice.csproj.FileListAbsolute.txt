@@ -1,0 +1,4 @@
+D:\sage\欣兴工具\DLL\ProductPrice.dll
+D:\sage\欣兴工具\DLL\ProductPrice.pdb
+D:\sage\欣兴工具\Company\ProductPrice\obj\Debug\ProductPrice.dll
+D:\sage\欣兴工具\Company\ProductPrice\obj\Debug\ProductPrice.pdb
