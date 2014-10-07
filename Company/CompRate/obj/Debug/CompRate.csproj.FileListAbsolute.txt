@@ -1,0 +1,4 @@
+D:\sage\欣兴工具\DLL\CompRate.dll
+D:\sage\欣兴工具\DLL\CompRate.pdb
+D:\sage\欣兴工具\Company\CompRate\obj\Debug\CompRate.dll
+D:\sage\欣兴工具\Company\CompRate\obj\Debug\CompRate.pdb
