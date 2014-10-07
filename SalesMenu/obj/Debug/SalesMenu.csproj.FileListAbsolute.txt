@@ -1,0 +1,13 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\SalesMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\SalesMenu.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.Properties.Resources.resources
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.csproj.GenerateResource.Cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.pdb
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\SalesMenu.dll
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\SalesMenu.pdb
+D:\sage\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.Properties.Resources.resources
+D:\sage\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.csproj.GenerateResource.Cache
+D:\sage\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.dll
+D:\sage\欣兴工具\Project\XXGJ\SalesMenu\obj\Debug\SalesMenu.pdb

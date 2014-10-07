@@ -1,0 +1,12 @@
+D:\Documents and Settings\Sage CRM\秦训\Project\Contract\Contract\bin\Debug\Contract.dll
+D:\Documents and Settings\Sage CRM\秦训\Project\Contract\Contract\bin\Debug\Contract.pdb
+D:\Documents and Settings\Sage CRM\秦训\Project\Contract\Contract\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sage CRM\秦训\Project\Contract\Contract\obj\Debug\Contract.dll
+D:\Documents and Settings\Sage CRM\秦训\Project\Contract\Contract\obj\Debug\Contract.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contract\bin\Debug\Contract.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contract\bin\Debug\Contract.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contract\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contract\obj\Debug\Contract.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contract\obj\Debug\Contract.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\Contract.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\Contract.pdb

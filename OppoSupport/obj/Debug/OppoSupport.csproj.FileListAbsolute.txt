@@ -1,0 +1,11 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoSupport\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoSupport\bin\Debug\OppoSupport.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoSupport\bin\Debug\OppoSupport.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoSupport\obj\Debug\OppoSupport.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoSupport\obj\Debug\OppoSupport.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\OppoSupport.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\OppoSupport.pdb
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\OppoSupport.dll
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\OppoSupport.pdb
+D:\sage\欣兴工具\Project\XXGJ\OppoSupport\obj\Debug\OppoSupport.dll
+D:\sage\欣兴工具\Project\XXGJ\OppoSupport\obj\Debug\OppoSupport.pdb

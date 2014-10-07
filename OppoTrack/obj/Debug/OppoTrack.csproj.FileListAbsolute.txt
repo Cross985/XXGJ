@@ -1,0 +1,12 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoTrack\bin\Debug\OppoTrack.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoTrack\bin\Debug\OppoTrack.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoTrack\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoTrack\obj\Debug\OppoTrack.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\OppoTrack\obj\Debug\OppoTrack.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\OppoTrack.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\OppoTrack.pdb
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\OppoTrack.dll
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\OppoTrack.pdb
+D:\sage\欣兴工具\Project\XXGJ\OppoTrack\obj\Debug\OppoTrack.csprojResolveAssemblyReference.cache
+D:\sage\欣兴工具\Project\XXGJ\OppoTrack\obj\Debug\OppoTrack.dll
+D:\sage\欣兴工具\Project\XXGJ\OppoTrack\obj\Debug\OppoTrack.pdb

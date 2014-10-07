@@ -1,0 +1,7 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ProdType\bin\Debug\ProdType.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ProdType\bin\Debug\ProdType.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ProdType\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ProdType\obj\Debug\ProdType.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ProdType\obj\Debug\ProdType.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\ProdType.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\ProdType.pdb

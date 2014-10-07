@@ -1,0 +1,5 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\CompeMarAct.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\CompeMarAct.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\CompeMarAct\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\CompeMarAct\obj\Debug\CompeMarAct.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\CompeMarAct\obj\Debug\CompeMarAct.pdb

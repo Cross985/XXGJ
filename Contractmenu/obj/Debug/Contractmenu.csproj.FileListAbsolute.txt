@@ -1,0 +1,15 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.Properties.Resources.resources
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.csproj.GenerateResource.Cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\bin\Debug\Contractmenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\bin\Debug\Contractmenu.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\Contractmenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\Contractmenu.pdb
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\Contractmenu.dll
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\Contractmenu.pdb
+D:\sage\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.Properties.Resources.resources
+D:\sage\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.csproj.GenerateResource.Cache
+D:\sage\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.dll
+D:\sage\欣兴工具\Project\XXGJ\Contractmenu\obj\Debug\Contractmenu.pdb

@@ -1,0 +1,7 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MonthPlan\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MonthPlan\bin\Debug\MonthPlan.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MonthPlan\bin\Debug\MonthPlan.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MonthPlan\obj\Debug\MonthPlan.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MonthPlan\obj\Debug\MonthPlan.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MonthPlan.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MonthPlan.pdb

@@ -1,0 +1,15 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.Properties.Resources.resources
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.csproj.GenerateResource.Cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\bin\Debug\MarketingMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\bin\Debug\MarketingMenu.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MarketingMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MarketingMenu.pdb
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\MarketingMenu.dll
+D:\sage\欣兴工具\Project\XXGJ\ExportDLL\MarketingMenu.pdb
+D:\sage\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.Properties.Resources.resources
+D:\sage\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.csproj.GenerateResource.Cache
+D:\sage\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.dll
+D:\sage\欣兴工具\Project\XXGJ\MarketingMenu\obj\Debug\MarketingMenu.pdb

@@ -1,0 +1,12 @@
+E:\孙敏\Sage CRM\三花\Project\project-三花\BusReport\BusReport\bin\Debug\BusReport.dll
+E:\孙敏\Sage CRM\三花\Project\project-三花\BusReport\BusReport\bin\Debug\BusReport.pdb
+E:\孙敏\Sage CRM\三花\Project\project-三花\BusReport\BusReport\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\三花\Project\project-三花\BusReport\BusReport\obj\Debug\BusReport.dll
+E:\孙敏\Sage CRM\三花\Project\project-三花\BusReport\BusReport\obj\Debug\BusReport.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketInfo\bin\Debug\BusReport.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketInfo\bin\Debug\BusReport.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MarketInfo.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MarketInfo.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketInfo\obj\Debug\MarketInfo.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarketInfo\obj\Debug\MarketInfo.pdb

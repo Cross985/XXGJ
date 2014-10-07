@@ -1,0 +1,5 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MarActPool.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\MarActPool.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarActPool\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarActPool\obj\Debug\MarActPool.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\MarActPool\obj\Debug\MarActPool.pdb

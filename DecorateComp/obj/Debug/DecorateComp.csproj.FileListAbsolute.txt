@@ -1,0 +1,7 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\DecorateComp\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\DecorateComp\bin\Debug\DecorateComp.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\DecorateComp\bin\Debug\DecorateComp.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\DecorateComp\obj\Debug\DecorateComp.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\DecorateComp\obj\Debug\DecorateComp.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\DecorateComp.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\DecorateComp.pdb

@@ -1,0 +1,5 @@
+D:\Documents and Settings\Sage CRM\三花\project-三花\BusReport\BusReport\bin\Debug\BusReport.dll
+D:\Documents and Settings\Sage CRM\三花\project-三花\BusReport\BusReport\bin\Debug\BusReport.pdb
+D:\Documents and Settings\Sage CRM\三花\project-三花\BusReport\BusReport\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Sage CRM\三花\project-三花\BusReport\BusReport\obj\Debug\BusReport.dll
+D:\Documents and Settings\Sage CRM\三花\project-三花\BusReport\BusReport\obj\Debug\BusReport.pdb

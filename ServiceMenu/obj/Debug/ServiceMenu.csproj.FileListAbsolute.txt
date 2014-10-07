@@ -1,0 +1,20 @@
+E:\1.Project\1.进行中\7.泛仕达机电\6.Source\Fans_Tech\ExportDll\ServiceMenu.dll
+E:\1.Project\1.进行中\7.泛仕达机电\6.Source\Fans_Tech\ServiceMenu\obj\Debug\ResolveAssemblyReference.cache
+E:\1.Project\1.进行中\7.泛仕达机电\6.Source\Fans_Tech\ServiceMenu\obj\Debug\SalesMenu.Properties.Resources.resources
+E:\1.Project\1.进行中\7.泛仕达机电\6.Source\Fans_Tech\ServiceMenu\obj\Debug\ServiceMenu.csproj.GenerateResource.Cache
+E:\1.Project\1.进行中\7.泛仕达机电\6.Source\Fans_Tech\ServiceMenu\obj\Debug\ServiceMenu.dll
+C:\Documents and Settings\min\My Documents\Visual Studio 2008\Projects\Fans_Tech\ExportDll\ServiceMenu.dll
+C:\Documents and Settings\min\My Documents\Visual Studio 2008\Projects\Fans_Tech\ServiceMenu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\min\My Documents\Visual Studio 2008\Projects\Fans_Tech\ServiceMenu\obj\Debug\SalesMenu.Properties.Resources.resources
+C:\Documents and Settings\min\My Documents\Visual Studio 2008\Projects\Fans_Tech\ServiceMenu\obj\Debug\ServiceMenu.csproj.GenerateResource.Cache
+C:\Documents and Settings\min\My Documents\Visual Studio 2008\Projects\Fans_Tech\ServiceMenu\obj\Debug\ServiceMenu.dll
+D:\fans-tech\Fans_Tech\ExportDll\ServiceMenu.dll
+D:\fans-tech\Fans_Tech\ServiceMenu\obj\Debug\ResolveAssemblyReference.cache
+D:\fans-tech\Fans_Tech\ServiceMenu\obj\Debug\SalesMenu.Properties.Resources.resources
+D:\fans-tech\Fans_Tech\ServiceMenu\obj\Debug\ServiceMenu.csproj.GenerateResource.Cache
+D:\fans-tech\Fans_Tech\ServiceMenu\obj\Debug\ServiceMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\ServiceMenu.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceMenu\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceMenu\obj\Debug\SalesMenu.Properties.Resources.resources
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceMenu\obj\Debug\ServiceMenu.csproj.GenerateResource.Cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceMenu\obj\Debug\ServiceMenu.dll

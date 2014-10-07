@@ -1,0 +1,5 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\Equipment.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\Equipment.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Equipment\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Equipment\obj\Debug\Equipment.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\Equipment\obj\Debug\Equipment.pdb

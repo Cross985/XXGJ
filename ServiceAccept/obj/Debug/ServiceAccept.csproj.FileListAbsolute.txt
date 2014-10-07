@@ -1,0 +1,7 @@
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceAccept\obj\Debug\ResolveAssemblyReference.cache
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceAccept\bin\Debug\ServiceAccept.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceAccept\bin\Debug\ServiceAccept.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceAccept\obj\Debug\ServiceAccept.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ServiceAccept\obj\Debug\ServiceAccept.pdb
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\ServiceAccept.dll
+E:\孙敏\Sage CRM\欣兴工具\Project\XXGJ\ExportDLL\ServiceAccept.pdb
